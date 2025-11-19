@@ -1,0 +1,13 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 229 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.27.91:3000/
+4:31:15 AM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/Cases.jsx:15:87: ERROR: Expected identifier but found "3"
+4:31:15 AM [vite] ✨ new dependencies optimized: @splinetool/react-spline, lucide-react
+4:31:15 AM [vite] ✨ optimized dependencies changed. reloading
